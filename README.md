@@ -9,3 +9,7 @@ This project uses the Kaggle dataset: Credit Score Classification by Rohan Paris
 It contains detailed information about individuals, including demographic data, banking details, and credit behavior. Key features include income, number of bank accounts, credit cards, outstanding debt, credit utilization ratio, payment behavior, and credit history.
 
 The dataset is split into training and testing sets, with the training set containing around 100,000 records and 28 features, including the target variable credit_score, which categorizes customers into different credit risk levels (e.g., Poor, Standard, Good).
+
+# Current State (Notes)
+
+The current implementation is not fully optimized, and model performance after fine-tuning remains suboptimal. Future work will focus on improving model tuning, feature engineering, and overall pipeline efficiency.
